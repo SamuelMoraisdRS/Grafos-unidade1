@@ -27,7 +27,7 @@ Este repositório contém o trabalho prático da **Unidade 1** sobre grafos, des
 - [ ] (8) Função que determina o número total de arestas  
 - [ ] (9) Inclusão de um novo vértice usando lista de adjacências e matriz de adjacências  
 - [ ] (10) Exclusão de um vértice existente usando lista de adjacências e matriz de adjacências  
-- [ ] (11) Função que determina se um grafo é conexo ou não  
+- [x] (11) Função que determina se um grafo é conexo ou não  
 - [ ] (12) Determinar se um grafo é bipartido *(OPCIONAL – vale 1,0 ponto)*  
 - [x] (13) Busca em Largura (BFS), a partir de um vértice específico  
 - [x] (14) Busca em Profundidade (DFS), com determinação de arestas de retorno, a partir de um vértice específico  
