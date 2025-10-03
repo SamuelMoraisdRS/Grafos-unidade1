@@ -22,13 +22,13 @@ Este repositório contém o trabalho prático da **Unidade 1** sobre grafos, des
 - [x] (3) Criação do Grafo a partir da Matriz de Incidência  
 - [x] (4) Conversão de matriz de adjacência para lista de adjacências e vice-versa  
 - [x] (5) Função que calcula o grau de cada vértice  
-- [ ] (6) Função que determina se dois vértices são adjacentes  
-- [ ] (7) Função que determina o número total de vértices  
-- [ ] (8) Função que determina o número total de arestas  
-- [ ] (9) Inclusão de um novo vértice usando lista de adjacências e matriz de adjacências  
-- [ ] (10) Exclusão de um vértice existente usando lista de adjacências e matriz de adjacências  
+- [x] (6) Função que determina se dois vértices são adjacentes  
+- [x] (7) Função que determina o número total de vértices  
+- [x] (8) Função que determina o número total de arestas  
+- [x] (9) Inclusão de um novo vértice usando lista de adjacências e matriz de adjacências  
+- [x] (10) Exclusão de um vértice existente usando lista de adjacências e matriz de adjacências  
 - [x] (11) Função que determina se um grafo é conexo ou não  
-- [ ] (12) Determinar se um grafo é bipartido *(OPCIONAL – vale 1,0 ponto)*  
+- [x] (12) Determinar se um grafo é bipartido *(OPCIONAL – vale 1,0 ponto)*  
 - [x] (13) Busca em Largura (BFS), a partir de um vértice específico  
 - [x] (14) Busca em Profundidade (DFS), com determinação de arestas de retorno, a partir de um vértice específico  
 - [ ] (15) Determinação de articulações e blocos (biconectividade), utilizando obrigatoriamente a função **lowpt**  
