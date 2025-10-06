@@ -34,7 +34,7 @@ Este repositório contém o trabalho prático da **Unidade 1** sobre grafos, des
 - [ ] (15) Determinação de articulações e blocos (biconectividade), utilizando obrigatoriamente a função **lowpt**  
 
 ### B. Digrafos
-- [ ] (16) Representação do dígrafo a partir da matriz de adjacências  
+- [x] (16) Representação do dígrafo a partir da matriz de adjacências  
 - [ ] (17) Representação do dígrafo a partir da matriz de incidência  
 - [ ] (18) Determinação do grafo subjacente *(OPCIONAL – vale 0,5 ponto)*  
 - [ ] (19) Busca em largura (BFS)  
