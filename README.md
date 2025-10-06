@@ -35,7 +35,7 @@ Este repositório contém o trabalho prático da **Unidade 1** sobre grafos, des
 
 ### B. Digrafos
 - [x] (16) Representação do dígrafo a partir da matriz de adjacências  
-- [ ] (17) Representação do dígrafo a partir da matriz de incidência  
+- [x] (17) Representação do dígrafo a partir da matriz de incidência  
 - [ ] (18) Determinação do grafo subjacente *(OPCIONAL – vale 0,5 ponto)*  
 - [ ] (19) Busca em largura (BFS)  
 - [ ] (20) Busca em profundidade (DFS), com determinação de profundidade de entrada e de saída de cada vértice, e arestas de árvore, retorno, avanço e cruzamento  
