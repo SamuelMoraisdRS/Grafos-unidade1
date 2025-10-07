@@ -31,7 +31,7 @@ Este repositório contém o trabalho prático da **Unidade 1** sobre grafos, des
 - [x] (12) Determinar se um grafo é bipartido *(OPCIONAL – vale 1,0 ponto)*  
 - [x] (13) Busca em Largura (BFS), a partir de um vértice específico  
 - [x] (14) Busca em Profundidade (DFS), com determinação de arestas de retorno, a partir de um vértice específico  
-- [ ] (15) Determinação de articulações e blocos (biconectividade), utilizando obrigatoriamente a função **lowpt**  
+- [x] (15) Determinação de articulações e blocos (biconectividade), utilizando obrigatoriamente a função **lowpt**  
 
 ### B. Digrafos
 - [x] (16) Representação do dígrafo a partir da matriz de adjacências  
